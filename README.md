@@ -13,7 +13,6 @@ My ultimate goal is to improve healthcare for all through inclusive, reproducibl
 * Simulation and real data analyses: [Zhang et al.](https://doi.org/10.1101/2021.10.04.463133)
 * Code to reproduce analyses: [SparsePro_analysis](https://github.com/zhwm/SparsePro_analysis)
 
-
 #### 2.	To detect shared genetic signals across different phenotypes to identify actionable targets for diseases (colocalization)
 
 *	Built upon SparsePro, we developed SharePro to account for correlation between genetic variants in colocalization analysis. 
