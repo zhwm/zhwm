@@ -10,7 +10,7 @@ My ultimate goal is to improve healthcare for all through inclusive, reproducibl
 
 * We developed SparsePro to address the key challenge of integrating statistical evidence and functional genomic data.
 * Software: [SparsePro](https://github.com/zhwm/SparsePro)
-* Simulation and real data analyses: [Zhang et al.](https://doi.org/10.1101/2021.10.04.463133)
+* Simulation and real data analyses: [Zhang et al.](https://doi.org/10.1371/journal.pgen.1011104)
 * Code to reproduce analyses: [SparsePro_analysis](https://github.com/zhwm/SparsePro_analysis)
 
 #### 2.	To detect shared genetic signals across different phenotypes to identify actionable targets for diseases (colocalization)
