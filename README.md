@@ -1,8 +1,8 @@
 ### Hi! I am Wenmin, a data scientist :woman_technologist: with medical training :stethoscope: working on statistical genetics :dna:.
 
-- I am finishing my PhD in [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University supervised by [Dr. Josée Dupuis](https://www.mcgill.ca/epi-biostat-occh/josee-dupuis) and [Dr. Hamed Najafabadi](https://www.mcgillgenomecentre.ca/investigators/hamed-najafabadi/).
+- I am an [IVADO Postdoctoral Fellow](https://ivado.ca/en/research-community/) working with [Dr. Guillaume Lettre](http://www.mhi-humangenetics.org/en/welcome/) at Montreal Heart Institute.
+- I obtained my PhD in [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University supervised by [Dr. Josée Dupuis](https://www.mcgill.ca/epi-biostat-occh/josee-dupuis) and [Dr. Hamed Najafabadi](https://www.mcgillgenomecentre.ca/investigators/hamed-najafabadi/).
 - Previously, I obtained my bachelor's degree in preventive medicine and data science from Fudan University.
-- Currently, I am looking for my next role.
 
 My ultimate goal is to improve healthcare for all through inclusive, reproducible and actionable research. During my PhD, I have developed several computational methods in line with this goal:
 
@@ -17,7 +17,7 @@ My ultimate goal is to improve healthcare for all through inclusive, reproducibl
 
 *	Built upon SparsePro, we developed SharePro to account for correlation between genetic variants in colocalization analysis. 
 *	Software: [SharePro_coloc](https://github.com/zhwm/SharePro_coloc)
-*	Simulation and real data analyses: [Zhang et al.](https://doi.org/10.1101/2023.07.24.550431)
+*	Simulation and real data analyses: [Zhang et al.](https://doi.org/10.1093/bioinformatics/btae295)
 *	Code to reproduce analyses: [SharePro_coloc_analysis](https://github.com/zhwm/SharePro_coloc_analysis)
 
 #### 3.	To characterize genetic effect heterogeneity across populations with different environmental exposures (GxE)
