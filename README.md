@@ -4,7 +4,7 @@
 - I obtained my PhD in [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University supervised by [Dr. Josée Dupuis](https://www.mcgill.ca/epi-biostat-occh/josee-dupuis) and [Dr. Hamed Najafabadi](https://www.mcgillgenomecentre.ca/investigators/hamed-najafabadi/).
 - Previously, I obtained my bachelor's degree in preventive medicine and data science from Fudan University.
 
-My ultimate goal is to improve healthcare for all through inclusive, reproducible and actionable research. During my PhD, I have developed several computational methods in line with this goal:
+My research focuses on developing interpretable, efficient, and robust statistical and machine learning methods for large-scale biomedical data. My ultimate goal is to improve health for all through inclusive, reproducible, and actionable research. I have developed several efficient methods for high-dimensional correlated genetic data to improve the accuracy and efficiency of key analyses in statistical genetics:
 
 #### 1.	To identify causal genetic variants for diseases based on statistical associations and functional annotations (fine-mapping)
 
@@ -26,5 +26,17 @@ My ultimate goal is to improve healthcare for all through inclusive, reproducibl
 *	Software: [SharePro_gxe](https://github.com/zhwm/SharePro_gxe)
 *	Simulation and real data analyses: [Zhang et al.](https://doi.org/10.1101/2023.07.27.550862)
 *	Code to reproduce analyses: [SharePro_gxe_analysis](https://github.com/zhwm/SharePro_gxe_analysis)
+
+#### 4. To perform sensitivity analysis in causal inference
+* We used the core gene hypothesis to identify putative core instrument variables to reduce the risk of horizontal pleiotropy in Mendelian randomization
+* Software: [MR Corge](https://github.com/zhwm/MRCorge)
+* Real data analyses: [Zhang et al.](https://www.biorxiv.org/content/10.1101/2024.07.18.604191v1)
+* Code to reproduce analyses: [HDL->CAD](https://zhwm.github.io/MRCorge/articles/HDL_CAD.html)
+
+#### 5. To perform robust fine-mapping in the presence of linkage disequilibrium mismatch
+*	We developed a robust version of SparsePro to account for potential inconsistencies between the GWAS population and the LD reference panel.
+*	Software: [RSparsePro_LD](https://github.com/zhwm/RSparsePro_LD)
+*	Simulation and real data analyses: coming soon
+*	Code to reproduce analyses: coming soon
 
 Check out my other projects on [Google Scholar](https://scholar.google.com/citations?user=CvTg6nMAAAAJ&hl=en)!
