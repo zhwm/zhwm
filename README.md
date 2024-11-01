@@ -24,7 +24,7 @@ My research focuses on developing interpretable, efficient, and robust statistic
 
 *	We adapted SharePro to reduce multiple testing burden in GxE analysis.
 *	Software: [SharePro_gxe](https://github.com/zhwm/SharePro_gxe)
-*	Simulation and real data analyses: [Zhang et al.](https://doi.org/10.1101/2023.07.27.550862)
+*	Simulation and real data analyses: [Zhang et al.](https://doi.org/10.1038/s41467-024-53818-w)
 *	Code to reproduce analyses: [SharePro_gxe_analysis](https://github.com/zhwm/SharePro_gxe_analysis)
 
 #### 4. To perform sensitivity analysis in causal inference
@@ -37,6 +37,6 @@ My research focuses on developing interpretable, efficient, and robust statistic
 *	We developed a robust version of SparsePro to account for potential inconsistencies between the GWAS population and the LD reference panel.
 *	Software: [RSparsePro_LD](https://github.com/zhwm/RSparsePro_LD)
 *	Simulation and real data analyses: coming soon
-*	Code to reproduce analyses: coming soon
+*	Code to reproduce analyses: [RSparsePro_LD_analysis](https://github.com/zhwm/RSparsePro_LD_analysis)
 
 Check out my other projects on [Google Scholar](https://scholar.google.com/citations?user=CvTg6nMAAAAJ&hl=en)!
