@@ -36,7 +36,7 @@ My research focuses on developing interpretable, efficient, and robust statistic
 #### 5. To perform robust fine-mapping in the presence of linkage disequilibrium mismatch
 *	We developed a robust version of SparsePro to account for potential inconsistencies between the GWAS population and the LD reference panel.
 *	Software: [RSparsePro_LD](https://github.com/zhwm/RSparsePro_LD)
-*	Simulation and real data analyses: coming soon
+*	Simulation and real data analyses: [Zhang et al.](https://biorxiv.org/cgi/content/short/2024.10.29.620968v1)
 *	Code to reproduce analyses: [RSparsePro_LD_analysis](https://github.com/zhwm/RSparsePro_LD_analysis)
 
 Check out my other projects on [Google Scholar](https://scholar.google.com/citations?user=CvTg6nMAAAAJ&hl=en)!
