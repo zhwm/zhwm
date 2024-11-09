@@ -30,7 +30,7 @@ My research focuses on developing interpretable, efficient, and robust statistic
 #### 4. To perform sensitivity analysis in causal inference
 * We used the core gene hypothesis to identify putative core instrument variables to reduce the risk of horizontal pleiotropy in Mendelian randomization
 * Software: [MR Corge](https://github.com/zhwm/MRCorge)
-* Real data analyses: [Zhang et al.](https://www.biorxiv.org/content/10.1101/2024.07.18.604191v1)
+* Real data analyses: [Zhang et al.](https://doi.org/10.1093/bioinformatics/btae666)
 * Code to reproduce analyses: [HDL->CAD](https://zhwm.github.io/MRCorge/articles/HDL_CAD.html)
 
 #### 5. To perform robust fine-mapping in the presence of linkage disequilibrium mismatch
